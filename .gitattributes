@@ -1,0 +1,16 @@
+*            text=auto eol=lf
+
+*.blade.php  diff=html
+*.css        diff=css
+*.html       diff=html
+*.js         diff=javascript
+*.jsx        diff=jsx
+*.md         diff=markdown
+*.php        diff=php
+*.ts         diff=typescript linguist-language=ts
+*.tsx        diff=typescript linguist-language=tsx
+*.xml        diff=xml
+
+/.github     export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore

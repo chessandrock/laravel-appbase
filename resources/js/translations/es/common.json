@@ -1,0 +1,8 @@
+{
+    "app": {
+        "title": "Base de Aplicación en Laravel"
+    },
+    "hello": {
+        "world": "¡Hola mundo!"
+    }
+}

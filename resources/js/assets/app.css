@@ -1,0 +1,8 @@
+@import "@fontsource/roboto";
+@import "@fontsource/roboto-serif";
+@import "@fontsource/roboto-slab";
+@import "@fontsource/roboto-mono";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
